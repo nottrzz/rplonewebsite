@@ -23,28 +23,13 @@ import arrow_left from './left_arrow.png'
 import spotify_logo from './spotify_logo.png'
 import clock_icon from './clock_icon.png'
 import imgalbum1 from './imgalbum1.jpg'
-import imgsong1 from './imgsong1.jpg'
+import shella from './shella.jpg'
+import ochy from './ochy.jpg'
+
 import imgsong2 from './imgsong2.jpg'
-// import img3 from './img3.jpg'
-// import img4 from './img4.jpg'
-// import img5 from './img5.jpg'
-// import img6 from './img6.jpg'
-// import img7 from './img7.jpg'
-// import img8 from './img8.jpg'
-// import img9 from './img9.jpg'
-// import img10 from './img10.jpg'
-// import img11 from './img11.jpg'
-// import img12 from './img12.jpg'
-// import img13 from './img13.jpg'
-// import img14 from './img14.jpg'
-// import img15 from './img15.jpg'
-// import img16 from './img16.jpg'
+
 import song1 from  './song1.mp3'
-// import song2 from  './song2.mp3'
-// import song3 from  './song3.mp3'
-// import song4 from  './song4.mp3'
-// import song5 from  './song5.mp3'
-// import song6 from  './song6.mp3'
+
 
 export const assets = {
     bell_icon,
@@ -102,7 +87,7 @@ export const songsData = [
     {
         id:0,
         name: "Shella",
-        image: imgsong1,
+        image: shella,
         file: "https://b.top4top.io/m_3592t56lk1.mp3",
         desc:"I developer",
         duration:"5:22"
@@ -110,7 +95,7 @@ export const songsData = [
     {
         id:1,
         name: "OCHY",
-        image: imgsong2,
+        image: ochy,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
