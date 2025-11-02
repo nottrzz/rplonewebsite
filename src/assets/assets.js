@@ -27,6 +27,9 @@ import shella from './shella.jpg'
 import ochy from './ochy.jpg'
 import ariel from './ariel.jpg'
 import feng from './feng.jpg'
+import abong from './abong.jpg'
+import aina from './aina.jpg'
+import fina from './fina.jpg'
 
 import imgsong2 from './imgsong2.jpg'
 
@@ -121,7 +124,7 @@ export const songsData = [
     {
         id:4,
         name: "ABONG",
-        image: imgsong2,
+        image: abong,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
@@ -137,7 +140,15 @@ export const songsData = [
     {
         id:6,
         name: "FINA",
-        image: imgsong2,
+        image: fina,
+        file:fina,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:7,
+        name: "AINA",
+        image: aina,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
