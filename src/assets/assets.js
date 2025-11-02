@@ -153,5 +153,189 @@ export const songsData = [
         desc:"MEMBER",
         duration:"5:22"
     },
+    {
+        id:8,
+        name: "YAZID",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:9,
+        name: "ASHAR",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:10,
+        name: "ABANDA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:11,
+        name: "ENDANG",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:12,
+        name: "PITA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:13,
+        name: "RENI",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:14,
+        name: "IRWAN",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:15,
+        name: "AGIS",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:16,
+        name: "IRFAN",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:17,
+        name: "NOVAL",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:18,
+        name: "KIA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:19,
+        name: "PENTA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:20,
+        name: "NIA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:21,
+        name: "SAIDATUL KA'BUL",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:22,
+        name: "HILMI",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:23,
+        name: "ERIN",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:24,
+        name: "SAHUDA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:25,
+        name: "GINA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+    {
+        id:25,
+        name: "GINA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:26,
+        name: "LIA",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:27,
+        name: "KAMALIAH",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:28,
+        name: "ANGGUN",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:29,
+        name: "ANGGUN",
+        image: imgsong2,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
  
 ]
