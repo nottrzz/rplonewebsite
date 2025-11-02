@@ -26,7 +26,7 @@ const Navbar = () => {
             Explore Rpl One Premium
           </p>
           <p className="bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer">
-            Rpl One Good
+            Rpl One Is The best
           </p>
           <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center cursor-pointer">
             R

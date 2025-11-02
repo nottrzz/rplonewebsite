@@ -25,6 +25,8 @@ import clock_icon from './clock_icon.png'
 import imgalbum1 from './imgalbum1.jpg'
 import shella from './shella.jpg'
 import ochy from './ochy.jpg'
+import ariel from './ariel.jpg'
+import feng from './feng.jpg'
 
 import imgsong2 from './imgsong2.jpg'
 
@@ -102,16 +104,16 @@ export const songsData = [
     },
     {
         id:2,
-        name: "ABANDA",
-        image: imgsong2,
-        file:song1,
+        name: "FENG",
+        image: feng,
+        file:"https://h.top4top.io/m_3593yv7kn1.mp3",
         desc:"MEMBER",
         duration:"5:22"
     },
     {
         id:3,
         name: "ARIEL",
-        image: imgsong2,
+        image: ariel,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
