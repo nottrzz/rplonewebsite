@@ -109,50 +109,50 @@ export const songsData = [
     },
     {
         id:1,
-        name: "ROSI SAMHARI",
+        name: "OCHY",
         image: imgsong2,
         file:song1,
-        desc:"MEMBER RPL ONE",
+        desc:"MEMBER",
         duration:"5:22"
     },
     {
         id:2,
-        name: "ABANDA SUTANSAMA",
+        name: "ABANDA",
         image: imgsong2,
         file:song1,
-        desc:"MEMBER RPL ONE",
+        desc:"MEMBER",
         duration:"5:22"
     },
     {
         id:3,
-        name: "ARIEL RIZKIANTO",
+        name: "ARIEL",
         image: imgsong2,
         file:song1,
-        desc:"MEMBER RPL ONE",
+        desc:"MEMBER",
         duration:"5:22"
     },
     {
         id:4,
-        name: "AKBAR RIZKY R",
+        name: "ABONG",
         image: imgsong2,
         file:song1,
-        desc:"MEMBER RPL ONE",
+        desc:"MEMBER",
         duration:"5:22"
     },
     {
         id:5,
-        name: "BAIQ KARISA PRATIWI",
+        name: "KARISA",
         image: imgsong2,
         file:song1,
-        desc:"MEMBER RPL ONE",
+        desc:"MEMBER",
         duration:"5:22"
     },
     {
         id:6,
-        name: "SULHA ARFINA",
+        name: "FINA",
         image: imgsong2,
         file:song1,
-        desc:"MEMBER RPL ONE",
+        desc:"MEMBER",
         duration:"5:22"
     },
  
