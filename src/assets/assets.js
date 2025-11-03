@@ -35,6 +35,7 @@ import karisa from './karisa.png'
 import endang from './endang.png'
 import azura from './azura.png'
 import nia from './nia.png'
+import abanda from './abanda.jpg'
 
 import imgsong2 from './imgsong2.jpg'
 
@@ -160,8 +161,8 @@ export const songsData = [
     },
     {
         id:6,
-        name: "ABONG",
-        image: abong,
+        name: "ABANDA",
+        image: abanda,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
