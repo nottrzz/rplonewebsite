@@ -69,27 +69,27 @@ export const assets = {
 }
 
 export const albumsData = [
+    // {   
+    //     id:0,
+    //     name: "XI RPL ONE",
+    //     image: imgalbum1,
+    //     desc:"All Playlist OF member rpl one",
+    //     bgColor:"#2a4365"
+    // },
     {   
         id:0,
-        name: "XI RPL ONE",
-        image: imgalbum1,
-        desc:"All Playlist OF member rpl one",
-        bgColor:"#2a4365"
-    },
-    {   
-        id:1,
         name: "XII RPL ONE",
         image: imgalbum1,
         desc:"All Playlist OF member rpl one",
         bgColor:"#2a4365"
     },
-    {
-        id:2,
-        name:"RPL ONE CLASS OF 2023",
-        image: imgalbum1,
-        desc: "ALL playlist of member rpl one, we choose the song",
-        bgColor: "#2a4365"
-    }
+    // {
+    //     id:2,
+    //     name:"RPL ONE CLASS OF 2023",
+    //     image: imgalbum1,
+    //     desc: "ALL playlist of member rpl one, we choose the song",
+    //     bgColor: "#2a4365"
+    // }
 
 ]
 
@@ -126,18 +126,34 @@ export const songsData = [
         desc:"MEMBER",
         duration:"5:22"
     },
-        {
+    {
         id:4,
-        name: "OCHY",
-        image: ochy,
+        name: "ARIEL",
+        image: ariel,
+        file:"https://residential-tan-yhc3wiyb30.edgeone.app/Lihat%20Kebunku%20Penuh%20Dengan%20Bunga%20(%20Taman%20Bunga%20)%20-%20Jeje%20__%20By%20Khaliq%20Al%20Ansyar%20[6mIi9m5f4Fg].mp3",
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:9,
+        name: "AZURA",
+        image: azura,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
     },
-    {
+        {
         id:5,
-        name: "ARIEL",
-        image: ariel,
+        name: "KARISA",
+        image: karisa,
+        file:song1,
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:5,
+        name: "OCHY",
+        image: ochy,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
@@ -146,14 +162,6 @@ export const songsData = [
         id:6,
         name: "ABONG",
         image: abong,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-    {
-        id:5,
-        name: "KARISA",
-        image: karisa,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
@@ -182,17 +190,6 @@ export const songsData = [
         desc:"MEMBER",
         duration:"5:22"
     },
-
-
-    {
-        id:9,
-        name: "AZURA",
-        image: azura,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-
     {
         id:12,
         name: "PITA",
