@@ -36,6 +36,7 @@ import endang from './endang.png'
 import azura from './azura.png'
 import nia from './nia.png'
 import abanda from './abanda.jpg'
+import twelve from './twelve.jpg'
 
 import imgsong2 from './imgsong2.jpg'
 
@@ -70,25 +71,18 @@ export const assets = {
 }
 
 export const albumsData = [
-    // {   
-    //     id:0,
-    //     name: "XI RPL ONE",
-    //     image: imgalbum1,
-    //     desc:"All Playlist OF member rpl one",
-    //     bgColor:"#2a4365"
-    // },
     {   
         id:0,
         name: "XII RPL ONE",
-        image: imgalbum1,
-        desc:"All Playlist OF member rpl one",
-        bgColor:"#2a4365"
+        image: twelve,
+        desc:"All Playlist OF member RPL ONE",
+        bgColor:"#2596be"
     },
     // {
-    //     id:2,
-    //     name:"RPL ONE CLASS OF 2023",
+    //     id:1,
+    //     name:"XI RPL ONE",
     //     image: imgalbum1,
-    //     desc: "ALL playlist of member rpl one, we choose the song",
+    //     desc: "ALL playlist of member RPL ONE",
     //     bgColor: "#2a4365"
     // }
 
@@ -312,7 +306,7 @@ export const songsData = [
         duration:"5:22"
     },
         {
-        id:27,
+        d:0,
         name: "KAMALIAH",
         image: imgsong2,
         file:song1,
