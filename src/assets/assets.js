@@ -30,6 +30,11 @@ import feng from './feng.jpg'
 import abong from './abong.jpg'
 import aina from './aina.jpg'
 import fina from './fina.jpg'
+import anggun from './anggun.png'
+import karisa from './karisa.png'
+import endang from './endang.png'
+import azura from './azura.png'
+import nia from './nia.png'
 
 import imgsong2 from './imgsong2.jpg'
 
@@ -97,8 +102,32 @@ export const songsData = [
         desc:"I developer",
         duration:"5:22"
     },
-    {
+        {
         id:1,
+        name: "ENDANG",
+        image: endang,
+        file:"https://wealthy-fuchsia-qfhxqfn7vc.edgeone.app/Dewa%2019%20-%20Aku%20Milikmu%20_%20Official%20Video.mp3",
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:2,
+        name: "NIA",
+        image: nia,
+        file:"https://sleepy-aquamarine-kbhwuygygu.edgeone.app/Idgitaf%20-%20Sedia%20Aku%20Sebelum%20Hujan%20(Official%20Lyric%20Video)%20(1).mp3",
+        desc:"MEMBER",
+        duration:"3:53"
+    },
+    {
+        id:3,
+        name: "FENG",
+        image: feng,
+        file:"https://h.top4top.io/m_3593yv7kn1.mp3",
+        desc:"MEMBER",
+        duration:"5:22"
+    },
+        {
+        id:4,
         name: "OCHY",
         image: ochy,
         file:song1,
@@ -106,15 +135,7 @@ export const songsData = [
         duration:"5:22"
     },
     {
-        id:2,
-        name: "FENG",
-        image: feng,
-        file:"https://h.top4top.io/m_3593yv7kn1.mp3",
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-    {
-        id:3,
+        id:5,
         name: "ARIEL",
         image: ariel,
         file:song1,
@@ -122,7 +143,7 @@ export const songsData = [
         duration:"5:22"
     },
     {
-        id:4,
+        id:6,
         name: "ABONG",
         image: abong,
         file:song1,
@@ -132,13 +153,21 @@ export const songsData = [
     {
         id:5,
         name: "KARISA",
-        image: imgsong2,
+        image: karisa,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
     },
-    {
+        {
         id:6,
+        name: "ANGGUN",
+        image: anggun,
+        file:song1,
+        desc:"MEMBER",
+        duration:"3:22"
+    },
+    {
+        id:7,
         name: "FINA",
         image: fina,
         file:fina,
@@ -146,45 +175,24 @@ export const songsData = [
         duration:"5:22"
     },
     {
-        id:7,
+        id:8,
         name: "AINA",
         image: aina,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
     },
-    {
-        id:8,
-        name: "YAZID",
-        image: imgsong2,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
+
+
     {
         id:9,
-        name: "ASHAR",
-        image: imgsong2,
+        name: "AZURA",
+        image: azura,
         file:song1,
         desc:"MEMBER",
         duration:"5:22"
     },
-    {
-        id:10,
-        name: "ABANDA",
-        image: imgsong2,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-    {
-        id:11,
-        name: "ENDANG",
-        image: imgsong2,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
+
     {
         id:12,
         name: "PITA",
@@ -250,14 +258,6 @@ export const songsData = [
         duration:"5:22"
     },
     {
-        id:20,
-        name: "NIA",
-        image: imgsong2,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-    {
         id:21,
         name: "SAIDATUL KA'BUL",
         image: imgsong2,
@@ -316,22 +316,6 @@ export const songsData = [
         {
         id:27,
         name: "KAMALIAH",
-        image: imgsong2,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-        {
-        id:28,
-        name: "ANGGUN",
-        image: imgsong2,
-        file:song1,
-        desc:"MEMBER",
-        duration:"5:22"
-    },
-        {
-        id:29,
-        name: "ANGGUN",
         image: imgsong2,
         file:song1,
         desc:"MEMBER",
